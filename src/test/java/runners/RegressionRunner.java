@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test/resources/features",
-        glue = "steps_defs",
+        glue = "runners/steps_defs",
         tags = "@Smoke or @Regression",
         dryRun = false,
         plugin = {

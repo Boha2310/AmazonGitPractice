@@ -1,4 +1,4 @@
-package steps_defs;
+package runners.steps_defs;
 
 import com.digital_nomads.javaFall2021.applications.DemirBank;
 import io.cucumber.java.en.Given;
