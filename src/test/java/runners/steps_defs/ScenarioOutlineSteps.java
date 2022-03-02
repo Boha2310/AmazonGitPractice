@@ -1,4 +1,4 @@
-package steps_defs;
+package runners.steps_defs;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
