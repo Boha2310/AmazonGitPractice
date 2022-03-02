@@ -1,0 +1,2 @@
+A) TTD --> Test Driven Dev;
+B) BDD -->

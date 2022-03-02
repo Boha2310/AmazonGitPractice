@@ -1,0 +1,6 @@
+steps_defs\ScenarioOutlineSteps.class
+steps_defs\AmazonLoginSteps.class
+steps_defs\DataTableSteps.class
+runners\SmokeRunner.class
+steps_defs\AmazonLoginOutline.class
+steps_defs\CucumberDemoSteps.class
